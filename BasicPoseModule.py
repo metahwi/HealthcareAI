@@ -1,3 +1,5 @@
+# Basic Pose Detection Module
+
 import cv2
 import mediapipe as mp
 

@@ -83,8 +83,7 @@
 
 
 
-
-
+# Description: This script uses OpenCV and a custom PoseModule to count push-ups in real-time.  
 import cv2
 import numpy as np
 import PoseModule as pm

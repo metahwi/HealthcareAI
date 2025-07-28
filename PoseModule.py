@@ -1,3 +1,5 @@
+# This module is used to detect the pose of a person in the image.
+
 import cv2
 import mediapipe as mp
 import math
